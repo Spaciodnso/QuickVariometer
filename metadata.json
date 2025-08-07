@@ -1,0 +1,7 @@
+{
+  "name": "VarioPWA",
+  "description": "A sophisticated variometer and flight computer PWA for paragliding, leveraging device sensors for real-time flight data, audio-visual vario, thermal assistance, and flight logging.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
